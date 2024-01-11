@@ -2,5 +2,5 @@
 
 ## Recursos:
 
-[Convertir a PDF](https://mpdf.github.io/)
+[Convertir a PDF](https://mpdf.github.io/)\\
 [Información proyecto](https://jaortizr.github.io/recs20232.html)
